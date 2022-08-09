@@ -29,7 +29,7 @@ url: "https://keyboardcatalogue.com" # the base hostname & protocol for your sit
 github_username:  patrickgil
 
 # Build settings
-theme: just-the-docs
+remote_theme: just-the-docs
 plugins:
   - jekyll-feed
 
