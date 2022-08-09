@@ -29,7 +29,7 @@ url: "https://keyboardcatalogue.com" # the base hostname & protocol for your sit
 github_username:  patrickgil
 
 # Build settings
-remote_theme: just-the-docs
+theme: just-the-docs
 plugins:
   - jekyll-feed
 
@@ -82,7 +82,6 @@ aux_links_new_tab: false
 # Sort order for navigation links
 # nav_sort: case_insensitive # default, equivalent to nil
 nav_sort: case_sensitive # Capital letters sorted before lowercase
-
 
 
 # Exclude from processing.
