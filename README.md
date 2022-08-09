@@ -8,4 +8,4 @@ keyboards and their specifications.
 This is an incomplete list, please consider helping to add information.
 
 ##
-Powered by ["just-the-docs"](https://pmarsceill.github.io/just-the-docs/)
+Powered by ["Just-The-Docs"](https://github.com/just-the-docs/just-the-docs)
