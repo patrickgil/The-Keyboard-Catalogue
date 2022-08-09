@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The Keyboard Catalogue is a searchable database displaying all custom mechanical
   keyboards and their specifications. Do you have a board you would like to add?
   Open an issue on Github!
-baseurl: "https://keyboardcatalogue.com" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  patrickgil
