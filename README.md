@@ -5,7 +5,9 @@ keyboards and their specifications.
 
 ##
 
-Powered by ["just-the-docs"](https://pmarsceill.github.io/just-the-docs/)
-
 ## Need Your help
 
+This is an incomplete list, please consider helping to add information.
+
+##
+Powered by ["just-the-docs"](https://pmarsceill.github.io/just-the-docs/)
