@@ -1,6 +1,7 @@
 ---
 layout: "page"
 title: Donate
+permalink: /donate/
 ---
 
 <h1>Donate Here</h1>
