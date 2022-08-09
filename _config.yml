@@ -71,10 +71,10 @@ search:
 # Enable or disable heading anchors
 heading_anchors: true
 
-# Aux links for the upper right navigation
-#aux_links:
-#  "Theme on Github":
-#    - "//github.com/just-the-docs/just-the-docs"
+ Aux links for the upper right navigation
+aux_links:
+  "View the Keyboard Catalogue on Github.":
+    - "https://github.com/patrickgil/the-keyboard-catalogue"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
