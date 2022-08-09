@@ -7,4 +7,4 @@ permalink: "keycult"
 has_children: true
 parent: Designers
 ---
-This is the home page for the designer, Keycult.
+This is the home page for the designers at Keycult.
