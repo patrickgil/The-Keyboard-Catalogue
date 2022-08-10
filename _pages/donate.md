@@ -2,6 +2,7 @@
 layout: "page"
 title: Donate
 permalink: /donate/
+nav_order: 5
 ---
 
 <h1>Donate Here</h1>
