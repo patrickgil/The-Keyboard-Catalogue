@@ -9,6 +9,8 @@ parent: Designers
 
 This is the home page for the designer, {{page.title}}.
 
-- [Cypher](/cable-car-designs/cypher)
+- [Aanzee](/cable-car-designs/aanzee)
 - [Angel](/cable-car-designs/angel)
+- [Cypher](/cable-car-designs/cypher)
+- [Phoenix](/cable-car-designs/phoenix)
 - [Prophet](/cable-car-designs/prophet)

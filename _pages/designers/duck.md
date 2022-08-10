@@ -10,3 +10,8 @@ parent: Designers
 This is the home page for the designer, Duck.
 
 - [TC](/duck/tc)
+- [Orion](/duck/orion)
+- [Sidewinder](/duck/sidewinder)
+- [Viper](/duck/viper)
+- [Sidewinder](/duck/sidewinder)
+- [Sidewinder](/duck/sidewinder)

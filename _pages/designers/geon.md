@@ -7,4 +7,13 @@ parent: Designers
 ---
 # {{page.title}}
 
-This is the home page for the designer, Geon.
+This is the home page for the designer, {{page.title}}.
+
+- [F1-8X](/geon/f1-8x)
+- [F2-60](/geon/f2-60)
+- [F2-84](/geon/f2-84)
+- [Frog 60](/geon/frog-60)
+- [Frog TKL](/geon/frog-tkl)
+- [Ryu Ergo](/geon/ryu-ergo)
+- [Vanquish](/geon/vanquish)
+- [W1-AT](/geon/w1-at)

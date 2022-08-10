@@ -10,3 +10,4 @@ parent: Designers
 This is the home page for the designer, {{page.title}}.
 
 - [Austin](/drift-mechanics/austin)
+- [Forever](/drift-mechanics/forever)
