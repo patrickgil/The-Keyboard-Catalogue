@@ -5,4 +5,12 @@ title: "60 Percents"
 parent: Form Factors
 nav_order: 1
 ---
-# 60 Percent Keyboards HERE
+# 60 Percent Keyboards
+
+<ul>
+  {% for post in site.categories.60 %}
+    {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
