@@ -3,11 +3,13 @@ layout: page
 title:  "Keycult"
 categories: Keycult
 permalink: "keycult"
-has_children: true
 parent: Designers
 ---
+# Keycult
+
 This is the home page for the designers at Keycult.
 
+## Keyboards
 - [No. 1 TKL](/keycult/no-1)
 - [No. 1/60](/keycult/no-1-60)
 - [No. 1/65](/keycult/no-1-65)

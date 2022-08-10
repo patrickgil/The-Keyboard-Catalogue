@@ -3,7 +3,6 @@ layout: page
 title:  "NRD Designs"
 categories: nrd
 permalink: "nrd"
-has_children: true
 parent: Designers
 has_toc: false
 ---
