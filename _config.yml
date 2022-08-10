@@ -30,6 +30,8 @@ github_username:  patrickgil
 
 # Build settings
 include: [_pages]
+include: [_pages/designers]
+include: [_pages/form-factors]
 remote_theme: just-the-docs
 plugins:
   - jekyll-feed
