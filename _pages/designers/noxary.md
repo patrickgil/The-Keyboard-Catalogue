@@ -6,7 +6,7 @@ permalink: "noxary"
 parent: Designers
 has_toc: false
 ---
-# Noxary
+# {{page.title}}
 
 This is the home page for the designer, Xondat of Noxary.
 

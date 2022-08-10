@@ -5,7 +5,7 @@ categories: Keycult
 permalink: "keycult"
 parent: Designers
 ---
-# Keycult
+# {{page.title}}
 
 This is the home page for the designers at Keycult.
 

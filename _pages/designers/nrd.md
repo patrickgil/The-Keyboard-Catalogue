@@ -6,7 +6,7 @@ permalink: "nrd"
 parent: Designers
 has_toc: false
 ---
-# NRD Designs
+# {{page.title}}
 
 This is the home page for the designers of NRD Designs.
 

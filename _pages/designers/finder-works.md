@@ -5,4 +5,5 @@ categories: finder-works
 permalink: "finder-works"
 parent: Designers
 ---
-This is the home page for the designer, Finder Works.
+# {{page.title}}
+This is the home page for the designer, {{page.title}}.
