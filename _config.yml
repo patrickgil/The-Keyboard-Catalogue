@@ -19,30 +19,20 @@
 # in the templates via {{ site.myvariable }}.
 
 title: The Keyboard Catalogue
-email: patrick.gilchrist0@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Keyboard Catalogue is a searchable database displaying all custom mechanical
   keyboards and their specifications. Do you have a board you would like to add?
   Open an issue on Github!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://keyboardcatalogue.com" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  patrickgil
+avatar: assets/images/avatar.jpg
 
 # Build settings
 include: [_pages]
-include: [_pages/designers]
-include: [_pages/form-factors]
-remote_theme: just-the-docs
+theme: just-the-docs
 plugins:
   - jekyll-feed
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-        layout: "post"
 
 # Enable or disable the site search
 # Supports true (default) or false
