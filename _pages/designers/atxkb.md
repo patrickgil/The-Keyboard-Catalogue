@@ -7,7 +7,7 @@ parent: Designers
 ---
 # {{page.title}}
 
-This is the home page for the designer, ATXKB.
+This is the home page for the designer, {{page.title}}.
 
 - [512](/atxkb/512)
 - [Moontower](/atxkb/moontower)

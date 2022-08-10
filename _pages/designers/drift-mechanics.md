@@ -7,6 +7,6 @@ parent: Designers
 ---
 # {{page.title}}
 
-This is the home page for the designer, Drift Mechanics.
+This is the home page for the designer, {{page.title}}.
 
 - [Austin](/drift-mechanics/austin)
