@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 permalink: /
 title: "Home"
@@ -9,10 +6,20 @@ nav_order: 1
 ---
 # Welcome to The Keyboard Catalogue!
 
+<details close markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+
 ### Search Keyboards by Designers
 - [Keyboard Designers](/designers)
 
-### Search Keyboards based on form factor:
+### Search Keyboards by form factor:
 - [60s](/form-factors/60)
 - [65s](/form-factors/65)
 - [75s](/form-factors/75)
