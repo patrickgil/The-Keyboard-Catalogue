@@ -13,19 +13,19 @@ nav_order: 1
 - [Keyboard Designers](/designers)
 
 ### Search Keyboards based on form factor:
-- [60s](/form-factors/60/)
-- [65s](/form-factors/65/)
-- [75s](/form-factors/75/)
-- [TKLs](/form-factors/tkl/)
-- [1800s](/form-factors/1800/)
-- [Ergo](/form-factors/ergo/)
+- [60s](/form-factors/60)
+- [65s](/form-factors/65)
+- [75s](/form-factors/75)
+- [TKLs](/form-factors/tkl)
+- [1800s](/form-factors/1800)
+- [Ergo](/form-factors/ergo)
 
 #### Non-standard sizes:
-- [40s](/form-factors/40/)
-- [50s](/form-factors/50/)
-- [FRL TKLs](/form-factors/frl-tkl/)
-- [Fullsize](/form-factors/fullsize/)
-- [Miscellaneous](/form-factors/miscellaneous/)
+- [40s](/form-factors/40)
+- [50s](/form-factors/50)
+- [FRL TKLs](/form-factors/frl-tkl)
+- [Fullsize](/form-factors/fullsize)
+- [Miscellaneous](/form-factors/miscellaneous)
 
 <hr>
 
