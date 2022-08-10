@@ -10,3 +10,5 @@ parent: Designers
 This is the home page for the designer, {{page.title}}.
 
 - [Constellation](/aeboards/constellation)
+- [EXT 65](/aeboards/ext-65)
+- [Aegis](/aeboards/aegis)

@@ -7,3 +7,6 @@ parent: Designers
 ---
 # {{page.title}}
 This is the home page for the designer, {{page.title}}.
+
+- [En Dash](/finder-works/en-dash)
+- [Hyphen](/finder-works/hyphen)
