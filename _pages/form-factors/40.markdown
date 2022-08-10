@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /form-factors/40
+permalink: "/form-factors/40"
 title: "40 Percents"
 parent: Form Factors
 nav_order: 7

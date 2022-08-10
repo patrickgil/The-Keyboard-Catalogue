@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /form-factors/fullsize
+permalink: "/form-factors/fullsize"
 title: "Fullsize"
 parent: Form Factors
 nav_order: 10

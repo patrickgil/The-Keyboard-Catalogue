@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /form-factors/ergo
+permalink: "/form-factors/ergo"
 title: "Ergo"
 parent: Form Factors
 nav_order: 6

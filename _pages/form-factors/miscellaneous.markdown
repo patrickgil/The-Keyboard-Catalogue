@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /form-factors/miscellaneous
+permalink: "/form-factors/miscellaneous"
 title: "Miscellaneous"
 parent: Form Factors
 nav_order: 11
