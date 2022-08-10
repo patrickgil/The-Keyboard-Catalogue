@@ -2,10 +2,12 @@
 layout: "page"
 title: Donate
 permalink: /donate/
-nav_order: 5
+nav_exclude: true
 ---
 
-<h1>Donate Here</h1>
+# Donations
+
+If you would like to support The Keyboard Database financially a PayPal donation page is linked below: 
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="business" value="UY3V9KBXKATN4" />
