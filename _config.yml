@@ -32,6 +32,7 @@ include: [_pages]
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 
 # Enable or disable the site search
