@@ -8,3 +8,8 @@ parent: Designers
 # {{page.title}}
 
 This is the home page for the designer, Jae (Prototypist).
+
+## Keyboards
+
+- [J-01](/jae/j-01)
+- [J-02](/jae/j-02)

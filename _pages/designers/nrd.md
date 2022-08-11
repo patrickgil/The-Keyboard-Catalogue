@@ -10,4 +10,6 @@ has_toc: false
 
 This is the home page for the designers of NRD Designs.
 
-## [Kaze](/nrd/kaze)
+## Keyboards
+
+- [Kaze](/nrd/kaze)

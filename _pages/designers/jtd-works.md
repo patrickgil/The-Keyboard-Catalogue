@@ -1,13 +1,14 @@
 ---
 layout: page
-title:  "Sour"
-categories: sour
-permalink: "sour"
+title:  "JTD.Works"
+categories: jtd-works
+permalink: "jtd-works"
 parent: Designers
 ---
 # {{page.title}}
+
 This is the home page for the designer, {{page.title}}.
 
 ## Keyboards
 
-- [Petals](/sour/petals)
+- [Khajit](/jtd-works/khajit)

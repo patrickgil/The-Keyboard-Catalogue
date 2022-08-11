@@ -8,3 +8,8 @@ parent: Designers
 # {{page.title}}
 
 This is the home page for the designer, Tom.
+
+## Keyboards
+
+- [Isla](/tom-works/isla)
+- [Ellipses](/tom-works/ellipses)
