@@ -1,7 +1,7 @@
 ---
 layout: "page"
 title:  "Designers"
-categories: keyboards
+categories: keyboards designers
 permalink: /designers/
 has_children: true
 nav_order: 3
