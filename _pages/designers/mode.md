@@ -10,3 +10,7 @@ parent: Designers
 This is the home page for the designer, Mode.
 
 ## Keyboards
+
+- [Eighty](/mode/eighty)
+- [SixtyFive](/mode/sixty-five)
+- [Sonnet](/mode/sonnet)

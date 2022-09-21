@@ -10,3 +10,12 @@ parent: Designers
 This is the home page for the designers at Monokei.
 
 ## Keyboards
+
+-[Kei](/monokei/kei)
+-[Hiro](/monokei/hiro)
+-[Hidari](/monokei/hidari)
+-[KFE](/monokei/kfe)
+-[Standard](/monokei/standard)
+-[Tomo](/monokei/tomo)
+-[Neko](/monokei/neko)
+-[Kage](/monokei/kage)

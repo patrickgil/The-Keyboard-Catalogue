@@ -10,3 +10,8 @@ parent: Designers
 This is the home page for the designer, Linworks.
 
 ## Keyboards
+
+- [Whale](/linworks/whale)
+- [Dolphin](/linworks/dolphin)
+- [EM7](/linworks/em7)
+- [EM8](/linworks/em8)
