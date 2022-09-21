@@ -10,3 +10,7 @@ parent: Designers
 This is the home page for the designer, Smith and Rune.
 
 ## Keyboards
+
+- [Iron165](/smith-and-rune/iron165)
+- [Iron160](/smith-and-rune/iron160)
+- [Iron180](/smith-and-rune/iron180)

@@ -10,3 +10,8 @@ parent: Designers
 This is the home page for the designer, Perry.
 
 ## Keyboards
+
+- [MC65](/perry/mc65)
+- [IU](/perry/iu)
+- [JinSoul](/perry/jinsoul)
+- [KHDD](/perry/khdd)

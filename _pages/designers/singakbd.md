@@ -10,3 +10,9 @@ parent: Designers
 This is the home page for the designer, SingaKBD.
 
 ## Keyboards
+
+- [Singa](/singa/singa)
+- [Unikorn](/singa/unikorn)
+- [Kohaku](/singa/kohaku)
+- [Jaguar](/singa/jaguar)
+- [Neko](/monokei/neko)

@@ -10,3 +10,8 @@ parent: Designers
 This is the home page for the designer, wilba.tech.
 
 ## Keyboards
+
+- [Salvation](/wilba/salvation)
+- [Thermal](/wilba/thermal)
+- [Xeno](/ion/xeno)
+- [JD45](/wilba/jd45)
