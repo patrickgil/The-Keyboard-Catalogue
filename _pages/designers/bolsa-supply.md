@@ -11,5 +11,5 @@ This is the home page for the designer, {{page.title}}.
 
 ## Keyboards
 
-- [Midway60](/bolsa/midway60)
 - [Bolsalice](/bolsa/bolsalice)
+- [Midway60](/bolsa/midway60)
