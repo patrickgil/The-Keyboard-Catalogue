@@ -1,12 +1,12 @@
 ---
 layout: default
 title:  "Bisoromi Kikuichimonji"
-categories: bisoromi frl-tkl
+categories: bisoromi frl-tkl aeboards
 permalink: "bisoromi/kikuichimonji"
 ---
 # {{page.title}}
 
-ref link: [Biso's Instagram]](https://www.instagram.com/bisoromi_/)
+ref link: [Biso's Instagram](https://www.instagram.com/bisoromi_/)
 
 FRLTKL
 
