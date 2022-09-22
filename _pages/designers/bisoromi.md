@@ -14,4 +14,5 @@ This is the home page for the designer, {{page.title}}.
 - [RS60](/bisoromi/rs-60)
 - [RS TKL](/bisoromi/rs-tkl)
 - [Rosenthal](/bisoromi/rosenthal)
+- [Kikuichimonji](/bisoromi/kikuichimonji)
 - [Wristbreaker](/bisoromi/wristbreaker)
