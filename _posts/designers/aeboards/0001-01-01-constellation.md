@@ -3,6 +3,7 @@ layout: default
 title:  "AEBoards Constellation"
 categories: aeboards 65
 permalink: "aeboards/constellation"
+tags: Constellation
 ---
 # {{page.title}}
 

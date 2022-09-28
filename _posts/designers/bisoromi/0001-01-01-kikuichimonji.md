@@ -3,6 +3,7 @@ layout: default
 title:  "Bisoromi Kikuichimonji"
 categories: bisoromi frl-tkl aeboards
 permalink: "bisoromi/kikuichimonji"
+tags: Kikuichimonji
 ---
 # {{page.title}}
 
