@@ -3,6 +3,7 @@ layout: default
 title:  "SINGAKBD x TGR Unikorn"
 categories: singa tgr 60
 permalink: "singa/unikorn"
+tags: Unikorn
 ---
 # {{page.title}}
 
