@@ -1,0 +1,17 @@
+---
+layout: page
+permalink: "/form-factors/40"
+title: "Forty Percents"
+parent: Form Factors
+nav_order: 7
+---
+# 40 Percent Keyboards
+
+<ul>
+  {% assign sortedPosts = site.categories.forty | sort: 'title' %}
+    {% for post in sortedPosts %}
+      {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+</ul>
