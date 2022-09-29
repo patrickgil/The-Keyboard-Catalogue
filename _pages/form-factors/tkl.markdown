@@ -28,6 +28,6 @@ nav_order: 4
 {% assign sortedposts = posts | split: '|' | sort %}
 {% for post in sortedposts %}
     {% assign postitems = post | split: '#' %}
-    <li><a href={{ postitems[1] }}">{{ postitems[0] }}</a><br></li>
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
