@@ -1,14 +1,14 @@
 ---
 layout: page
-permalink: "/form-factors/65"
-title: "Sixty-Five Percents"
+permalink: "/form-factors/50"
+title: "50 Percents"
 parent: Form Factors
-nav_order: 2
+nav_order: 8
 ---
-# 65 Percent Keyboards
+# 50 Percent Keyboards
 
 <ul>
-  {% assign sortedPosts = site.categories.sixty-five | sort: 'title' %}
+  {% assign sortedPosts = site.categories.fifty | sort: 'title' %}
     {% for post in sortedPosts %}
       {% if post.url %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
