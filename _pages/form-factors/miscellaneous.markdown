@@ -8,9 +8,10 @@ nav_order: 11
 # Miscellaneous Keyboards
 
 <ul>
-  {% for post in site.categories.miscellaneous %}
-    {% if post.url %}
+  {% assign sortedPosts = site.categories.miscellaneous | sort: 'title' %}
+    {% for post in sortedPosts %}
+      {% if post.url %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
+        {% endif %}
+    {% endfor %}
 </ul>

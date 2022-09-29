@@ -8,9 +8,10 @@ nav_order: 9
 # FRL TKL Keyboards
 
 <ul>
-  {% for post in site.categories.frl-tkl %}
-    {% if post.url %}
+  {% assign sortedPosts = site.categories.frl-tkl | sort: 'title' %}
+    {% for post in sortedPosts %}
+      {% if post.url %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
+        {% endif %}
+    {% endfor %}
 </ul>
