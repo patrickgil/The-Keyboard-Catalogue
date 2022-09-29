@@ -18,16 +18,9 @@ nav_order: 4
 
 ## Testing Post List in Alphabetical Order
 
-{% capture posts %}
-  {% for post in site.categories.tkl %}
-    |{{ post.title }}#{{ post.url }}
-  {% endfor %}
-{% endcapture %}
-
 <ul>
-{% assign sortedposts = posts | split: '|' | sort %}
-{% for post in sortedposts %}
-    {% assign postitems = post | split: '#' %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
+  {% assign sortedPosts = site.posts | sort: 'title' %}
+    {% if post.url %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
 </ul>
