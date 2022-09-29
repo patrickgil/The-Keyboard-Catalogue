@@ -20,7 +20,9 @@ nav_order: 4
 
 <ul>
   {% assign sortedPosts = site.posts | sort: 'title' %}
-    {% if post.url %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
+    {% for post in sortedPosts %}
+      {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+    {% endfor %}
 </ul>
