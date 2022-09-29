@@ -18,7 +18,9 @@ If you would like to support The Keyboard Database financially a PayPal donation
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
+## Testing Post List in Alphabetical Order
 
+<ul>
 {% capture posts %}
   {% for post in site.posts %}
     |{{ post.title }}#{{ post.url }}
@@ -27,5 +29,6 @@ If you would like to support The Keyboard Database financially a PayPal donation
 {% assign sortedposts = posts | split: '|' | sort %}
 {% for post in sortedposts %}
     {% assign postitems = post | split: '#' %}
-    <a href={{ postitems[1] }}">{{ postitems[0] }}</a><br>
+    <li><a href={{ postitems[1] }}">{{ postitems[0] }}</a><br></li>
 {% endfor %}
+</ul>
