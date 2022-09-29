@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "ATXKB Moontower"
-categories: atxkb 60
+categories: atxkb sixty
 permalink: "atxkb/moontower"
 tags: Moontower
 ---

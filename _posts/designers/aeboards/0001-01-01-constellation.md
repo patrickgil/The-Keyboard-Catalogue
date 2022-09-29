@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "AEBoards Constellation"
-categories: aeboards 65
+categories: aeboards sixty-five
 permalink: "aeboards/constellation"
 tags: Constellation
 ---
