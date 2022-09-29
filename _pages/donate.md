@@ -17,18 +17,3 @@ If you would like to support The Keyboard Database financially a PayPal donation
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
-
-## Testing Post List in Alphabetical Order
-
-<ul>
-{% capture posts %}
-  {% for post in site.posts %}
-    |{{ post.title }}#{{ post.url }}
-  {% endfor %}
-{% endcapture %}
-{% assign sortedposts = posts | split: '|' | sort %}
-{% for post in sortedposts %}
-    {% assign postitems = post | split: '#' %}
-    <li><a href={{ postitems[1] }}">{{ postitems[0] }}</a><br></li>
-{% endfor %}
-</ul>
