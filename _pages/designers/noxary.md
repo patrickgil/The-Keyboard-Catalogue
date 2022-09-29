@@ -12,9 +12,13 @@ This is the home page for the designer, Xondat of Noxary.
 
 ## Keyboards
 
-- [378](/noxary/378)
-- [380](/noxary/380)
-- [Evija (2022)](/noxary/evija-2022)
-- [X60 V2](/noxary/x60-v2)
-- [XRF (2022)](/noxary/xrf-2022)
-- [Valhalla](/noxary/valhalla-2020)
+<ul>
+  {% assign sortedPosts = site.categories.noxary | sort: 'title' %}
+    {% for post in sortedPosts %}
+      {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+</ul>
+
+### Unfinished

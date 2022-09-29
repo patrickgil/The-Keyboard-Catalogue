@@ -11,6 +11,8 @@ This is the home page for the designer, Gray Studio.
 
 ## Keyboards
 
+### Unfinished
+
 - [Aero 75](/gray-studio/aero-75)
 - [COD 67](/gray-studio/cod-67)
 - [HB 85](/gray-studio/hb-85)

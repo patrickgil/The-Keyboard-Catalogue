@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Keycult"
-categories: Keycult
+categories: keycult
 permalink: "keycult"
 parent: Designers
 ---
@@ -11,8 +11,11 @@ This is the home page for the designers at Keycult.
 
 ## Keyboards
 
-- [No. 1 TKL](/keycult/no-1-tkl)
-- [No. 1/60](/keycult/no-1-60)
-- [No. 1/65](/keycult/no-1-65)
-- [No. 2 TKL](/keycult/no-2-tkl)
-- [No. 2/65](/keycult/no-2-65)
+<ul>
+  {% assign sortedPosts = site.categories.keycult | sort: 'title' %}
+    {% for post in sortedPosts %}
+      {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+</ul>

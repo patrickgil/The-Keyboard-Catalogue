@@ -11,6 +11,8 @@ This is the home page for the designer, Ion.
 
 ## Keyboards
 
+### Unfinished
+
 - [Equinox](/ion/equinox)
 - [Equinox XL](/ion/equinox-xl)
 - [Jubi](/ion/jubi)

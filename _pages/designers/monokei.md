@@ -11,6 +11,8 @@ This is the home page for the designers at Monokei.
 
 ## Keyboards
 
+### Unfinished
+
 - [Kei](/monokei/kei)
 - [Hiro](/monokei/hiro)
 - [Hidari](/monokei/hidari)

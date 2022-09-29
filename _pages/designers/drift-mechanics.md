@@ -11,5 +11,15 @@ This is the home page for the designer, {{page.title}}.
 
 ## Keyboards
 
-- [Austin](/drift-mechanics/austin)
+<ul>
+  {% assign sortedPosts = site.categories.drift-mechanics | sort: 'title' %}
+    {% for post in sortedPosts %}
+      {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+</ul>
+
+### Unfinished
+
 - [Forever](/drift-mechanics/forever)

@@ -11,8 +11,15 @@ This is the home page for the designer, SingaKBD.
 
 ## Keyboards
 
-- [Singa](/singa/singa)
-- [Unikorn](/singa/unikorn)
-- [Kohaku](/singa/kohaku)
-- [Jaguar](/singa/jaguar)
+<ul>
+  {% assign sortedPosts = site.categories.singa | sort: 'title' %}
+    {% for post in sortedPosts %}
+      {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+</ul>
+
+### Unfinished
+
 - [Neko](/monokei/neko)

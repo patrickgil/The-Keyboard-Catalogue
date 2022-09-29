@@ -12,4 +12,13 @@ This is the home page for the designers of NRD Designs.
 
 ## Keyboards
 
+<ul>
+  {% assign sortedPosts = site.categories.nrd | sort: 'title' %}
+    {% for post in sortedPosts %}
+      {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+</ul>
+
 - [Kaze](/nrd/kaze)

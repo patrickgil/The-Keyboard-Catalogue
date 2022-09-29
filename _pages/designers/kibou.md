@@ -11,5 +11,7 @@ This is the home page for the designer, Kibou.
 
 ## Keyboards
 
+### Unfinished
+
 - [Harbour](/kibou/harbour)
 - [Suisei](/kibou/suisei)

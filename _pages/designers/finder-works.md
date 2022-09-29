@@ -10,6 +10,16 @@ This is the home page for the designer, {{page.title}}.
 
 ## Keyboards
 
-- [En Dash](/finder-works/en-dash)
+<ul>
+  {% assign sortedPosts = site.categories.finder-works | sort: 'title' %}
+    {% for post in sortedPosts %}
+      {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+</ul>
+
+### Unfinished
+
 - [Hyphen](/finder-works/hyphen)
 - [Tengu](/finder-works/tengu)
