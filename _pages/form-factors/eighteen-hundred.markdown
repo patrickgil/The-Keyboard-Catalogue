@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: "/form-factors/1800"
-title: "1800s"
+title: "Eighteen-hundreds"
 parent: Form Factors
 nav_order: 5
 ---

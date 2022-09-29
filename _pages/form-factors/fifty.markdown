@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: "/form-factors/50"
-title: "50 Percents"
+title: "Fifty Percents"
 parent: Form Factors
 nav_order: 8
 ---
