@@ -11,5 +11,15 @@ This is the home page for the designer, {{page.title}}.
 
 ## Keyboards
 
-- [Bias](/baionlenja/bias)
+<ul>
+  {% assign sortedPosts = site.categories.baionlenja | sort: 'title' %}
+    {% for post in sortedPosts %}
+      {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+</ul>
+
+### Unfinished
+
 - [Ophanim](/baionlenja/ophanim)
