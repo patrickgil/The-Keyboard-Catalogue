@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: "/mount-type/oring-mount"
+permalink: "/mount-type/xring-mount"
 title: "X-Ring Mount"
 parent: Mounting Type
 nav_order: 4
