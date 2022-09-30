@@ -13,4 +13,4 @@ This is the home page for the designer, {{page.title}}.
 
 ### Unfinished
 
-- GKST-00
+- GSKT-00
