@@ -7,15 +7,15 @@ parent: Designers
 ---
 # {{page.title}}
 
-This is the home page for the designer, Ion.
+This is the home page for the designer, {{page.title}}.
 
 ## Keyboards
 
 ### Unfinished
 
-- [Equinox](/ion/equinox)
-- [Equinox XL](/ion/equinox-xl)
-- [Jubi](/ion/jubi)
-- [Rogue](/ion/rogue)
-- [Xeno](/ion/xeno)
-- [Zenith](/ion/zenith)
+- Equinox
+- Equinox XL
+- Jubi
+- Rogue
+- Xeno
+- Zenith

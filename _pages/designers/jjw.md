@@ -13,7 +13,7 @@ This is the home page for the designer, {{page.title}}.
 
 ### Unfinished
 
-- [Moment](/jjw/moment)
-- [Derivative](/jjw/derivative)
-- [Cloudline](/jjw/cloudline)
-- [Slate](/jjw/slate)
+- Moment
+- Derivative
+- Cloudline
+- Slate

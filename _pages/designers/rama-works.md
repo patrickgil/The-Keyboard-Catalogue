@@ -7,14 +7,14 @@ parent: Designers
 ---
 # {{page.title}}
 
-This is the home page for the designer, RAMA Works.
+This is the home page for the designer, {{page.title}}.
 
 ## Keyboards
 
 ### Unfinished
 
-- [M60](/rama-works/m60)
-- [M65](/rama-works/m65)
-- [U80](/rama-works/u80)
-- [Kara](/rama-works/kara)
-- [Koyu](/rama-works/koyu)
+- M60
+- M65
+- U80
+- Kara
+- Koyu

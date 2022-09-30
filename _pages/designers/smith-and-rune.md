@@ -7,12 +7,12 @@ parent: Designers
 ---
 # {{page.title}}
 
-This is the home page for the designer, Smith and Rune.
+This is the home page for the designer, {{page.title}}.
 
 ## Keyboards
 
 ### Unfinished
 
-- [Iron165](/smith-and-rune/iron165)
-- [Iron160](/smith-and-rune/iron160)
-- [Iron180](/smith-and-rune/iron180)
+- Iron160
+- Iron165
+- Iron180

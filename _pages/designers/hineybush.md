@@ -7,14 +7,14 @@ parent: Designers
 ---
 # {{page.title}}
 
-This is the home page for the designer, Hineybush.
+This is the home page for the designer, {{page.title}}.
 
 ## Keyboards
 
 ### Unfinished
 
-- [HBCP](/hiney/hbcp)
-- [Ibis](/hiney/ibis)
-- [Ladybird](/hiney/ladybird)
-- [TKL One](/hiney/tkl-one)
-- [Trinity XT](/hiney/trinity-xt)
+- HBCP
+- Ibis
+- Ladybird
+- TKL One
+- Trinity XT

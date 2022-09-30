@@ -7,15 +7,15 @@ parent: Designers
 ---
 # {{page.title}}
 
-This is the home page for the designer, LZ.
+This is the home page for the designer, {{page.title}}.
 
 ## Keyboards
 
 ### Unfinished
 
-- [CLS](/lz/cls)
-- [RE](/lz/re)
-- [MP](/lz/mp)
-- [PhysiX](/lz/physix)
-- [SK](/lz/sk)
-- [CP](/lz/cp)
+- CLS
+- RE
+- MP
+- PhysiX
+- SK
+- CP

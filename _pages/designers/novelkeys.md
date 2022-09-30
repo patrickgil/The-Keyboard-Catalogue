@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  "Omnitype"
-categories: omnitype
-permalink: "omnitype"
+title:  "Novelkeys"
+categories: novelkeys
+permalink: "novelkeys"
 parent: Designers
 ---
 # {{page.title}}
@@ -13,6 +13,5 @@ This is the home page for the designer, {{page.title}}.
 
 ### Unfinished
 
-- Bauer
-- Bauer 2
-- Bauer Lite
+- NK65
+- NK87

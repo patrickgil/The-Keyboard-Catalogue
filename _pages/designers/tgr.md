@@ -7,7 +7,7 @@ parent: Designers
 ---
 # {{page.title}}
 
-This is the home page for the designer, TGR.
+This is the home page for the designer, {{page.title}}.
 
 ## Keyboards
 
@@ -22,7 +22,7 @@ This is the home page for the designer, TGR.
 
 ### Unfinished
 
-- [Alice](/tgr/alice)
-- [Jane](/tgr/jane)
-- [910](/tgr/910)
-- [Tomo](/monokei/tomo)
+- Alice
+- Jane
+- 910
+- Tomo

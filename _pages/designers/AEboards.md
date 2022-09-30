@@ -22,4 +22,4 @@ This is the home page for the designer, {{page.title}}.
 
 ### Unfinished
 
-- [Praxis](/aeboards/praxis)
+- Praxis

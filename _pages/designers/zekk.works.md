@@ -13,6 +13,6 @@ This is the home page for the designer {{page.title}}.
 
 ### Unfinished
 
-- [Ogre](/zekk-works/ogre)
-- [Original Visual](/zekk-works/original-visual)
-- [RBB](/zekk-works/rbb)
+- Ogre
+- Original Visual
+- RBB

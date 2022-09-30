@@ -8,7 +8,7 @@ has_toc: false
 ---
 # {{page.title}}
 
-This is the home page for the designers of NRD Designs.
+This is the home page for the designers of {{page.title}}.
 
 ## Keyboards
 
@@ -20,5 +20,3 @@ This is the home page for the designers of NRD Designs.
       {% endif %}
     {% endfor %}
 </ul>
-
-- [Kaze](/nrd/kaze)

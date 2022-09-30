@@ -22,4 +22,4 @@ This is the home page for the designer, {{page.title}}.
 
 ### Unfinished
 
-- [Live Oak](/atxkb/live-oak)
+- Live Oak

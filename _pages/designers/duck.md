@@ -7,15 +7,15 @@ parent: Designers
 ---
 # {{page.title}}
 
-This is the home page for the designer, Duck.
+This is the home page for the designer, {{page.title}}.
 
 ## Keyboards
 
 ### Unfinished
 
-- [TC](/duck/tc)
-- [Orion](/duck/orion)
-- [Sidewinder](/duck/sidewinder)
-- [Viper](/duck/viper)
-- [Sidewinder](/duck/sidewinder)
-- [Sidewinder](/duck/sidewinder)
+- TC
+- Orion
+- Sidewinder
+- Viper
+- Sidewinder
+- Jetfire

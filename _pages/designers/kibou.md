@@ -7,11 +7,11 @@ parent: Designers
 ---
 # {{page.title}}
 
-This is the home page for the designer, Kibou.
+This is the home page for the designer, {{page.title}}.
 
 ## Keyboards
 
 ### Unfinished
 
-- [Harbour](/kibou/harbour)
-- [Suisei](/kibou/suisei)
+- Harbour
+- Suisei

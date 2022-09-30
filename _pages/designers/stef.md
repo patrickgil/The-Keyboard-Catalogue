@@ -13,7 +13,7 @@ This is the home page for the designer, {{page.title}}.
 
 ### Unfinished
 
-- [Homura](/stef/homura)
-- [Kotai Planck](/stef/kotai-planck)
-- [Kotai Preonic](/stef/kotai-preonic)
-- [Pneuma](/stef/pneuma)
+- Homura
+- Kotai Planck
+- Kotai Preonic
+- Pneuma

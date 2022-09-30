@@ -7,11 +7,11 @@ parent: Designers
 ---
 # {{page.title}}
 
-This is the home page for the designer, Hand Engineering.
+This is the home page for the designer, {{page.title}}.
 
 ## Keyboards
 
 ### Unfinished
 
-- [Haus](/hand-engineering/haus)
-- [959 Mini](/hand-engineering/959-mini)
+- Haus
+- 959 Mini

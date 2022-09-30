@@ -8,7 +8,7 @@ has_toc: false
 ---
 # {{page.title}}
 
-This is the home page for the designer, Xondat of Noxary.
+This is the home page for the designer, Xondat of {{page.title}}.
 
 ## Keyboards
 

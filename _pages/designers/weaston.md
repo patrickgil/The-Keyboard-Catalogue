@@ -7,10 +7,10 @@ parent: Designers
 ---
 # {{page.title}}
 
-This is the home page for the designer, Weaston.
+This is the home page for the designer, {{page.title}}.
 
 ## Keyboards
 
 ### Unfinished
 
-- [GKST-00](/weaston/gskt-00)
+- GKST-00

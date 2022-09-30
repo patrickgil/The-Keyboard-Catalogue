@@ -7,7 +7,7 @@ parent: Designers
 ---
 # {{page.title}}
 
-This is the home page for the designers at KBDFans.
+This is the home page for the designers at {{page.title}}.
 
 ## Keyboards
 

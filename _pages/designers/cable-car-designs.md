@@ -22,7 +22,7 @@ This is the home page for the designer, {{page.title}}.
 
 ### Unfinished
 
-- [Aanzee](/cable-car-designs/aanzee)
-- [Angel](/cable-car-designs/angel)
-- [Cypher](/cable-car-designs/cypher)
-- [Phoenix](/cable-car-designs/phoenix)
+- Aanzee
+- Angel
+- Cypher
+- Phoenix

@@ -7,7 +7,7 @@ parent: Designers
 ---
 # {{page.title}}
 
-This is the home page for the designer, SingaKBD.
+This is the home page for the designer, {{page.title}}.
 
 ## Keyboards
 
@@ -22,4 +22,4 @@ This is the home page for the designer, SingaKBD.
 
 ### Unfinished
 
-- [Neko](/monokei/neko)
+- Neko

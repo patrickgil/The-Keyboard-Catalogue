@@ -21,5 +21,6 @@ This is the home page for the designer, {{page.title}}.
 
 ### Unfinished
 
-- [Hyphen](/finder-works/hyphen)
-- [Tengu](/finder-works/tengu)
+- Aburaya
+- Hyphen
+- Tengu

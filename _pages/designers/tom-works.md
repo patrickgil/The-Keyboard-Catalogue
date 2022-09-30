@@ -7,13 +7,13 @@ parent: Designers
 ---
 # {{page.title}}
 
-This is the home page for the designer, Tom.
+This is the home page for the designer, {{page.title}}.
 
 ## Keyboards
 
 ### Unfinished
 
-- [Aalto](/tom-works/aalto)
-- [Celeste](/tom-works/celeste)
-- [Isla](/tom-works/isla)
-- [Ellipses](/tom-works/ellipses)
+- Aalto
+- Celeste
+- Isla
+- Ellipses

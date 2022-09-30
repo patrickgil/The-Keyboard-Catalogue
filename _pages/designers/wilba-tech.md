@@ -7,13 +7,13 @@ parent: Designers
 ---
 # {{page.title}}
 
-This is the home page for the designer, wilba.tech.
+This is the home page for the designer, {{page.title}}.
 
 ## Keyboards
 
 ### Unfinished
 
-- [Salvation](/wilba/salvation)
-- [Thermal](/wilba/thermal)
-- [Xeno](/ion/xeno)
-- [JD45](/wilba/jd45)
+- Salvation
+- Thermal
+- Xeno
+- JD45

@@ -22,7 +22,7 @@ This is the home page for the designer, {{page.title}}.
 
 ### Unfinished
 
-- [F2-60](/geon/f2-60)
-- [Ryu Ergo](/geon/ryu-ergo)
-- [Vanquish](/geon/vanquish)
-- [W1-AT](/geon/w1-at)
+- F2-60
+- Ryu Ergo
+- Vanquish
+- W1-AT

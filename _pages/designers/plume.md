@@ -7,10 +7,10 @@ parent: Designers
 ---
 # {{page.title}}
 
-This is the home page for the designer, Plume Keyboards.
+This is the home page for the designer, {{page.title}}.
 
 ## Keyboards
 
 ### Unfinished
 
-- [Plume 65](/plume/plume65)
+- Plume 65

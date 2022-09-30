@@ -7,13 +7,13 @@ parent: Designers
 ---
 # {{page.title}}
 
-This is the home page for the designer, Linworks.
+This is the home page for the designer, {{page.title}}.
 
 ## Keyboards
 
 ### Unfinished
 
-- [Whale](/linworks/whale)
-- [Dolphin](/linworks/dolphin)
-- [EM7](/linworks/em7)
-- [EM8](/linworks/em8)
+- Whale
+- Dolphin
+- EM7
+- EM8

@@ -22,11 +22,11 @@ This is the home page for the designers at {{page.title}}.
 
 ### Unfinished
 
-- [Bakeneko](/cannonkeys/bakeneko)
-- [Balance](/cannonkeys/balance)
-- [Brutal 60](/cannonkeys/brutal-60)
-- [Devastating TKL](/cannonkeys/devastating-tkl)
-- [Obliterated 75](/cannonkeys/obliterated-75)
-- [Rekt 1800](/cannonkeys/rekt-1800)
-- [Satisfaction 75](cannonkeys/atisfaction-75)
-- [Vicious 40](/cannonkeys/vicious-40)
+- Bakeneko
+- Balance
+- Brutal 60
+- Devastating TKL
+- Obliterated 75
+- Rekt 1800
+- Satisfaction 75
+- Vicious 40

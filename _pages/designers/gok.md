@@ -7,7 +7,7 @@ parent: Designers
 ---
 # {{page.title}}
 
-This is the home page for the designer, Gok.
+This is the home page for the designer, {{page.title}}.
 
 ## Keyboards
 
@@ -22,5 +22,5 @@ This is the home page for the designer, Gok.
 
 ### Unfinished
 
-- [Chiwi60](/gok/chiwi60)
-- [Venn](/gok/venn)
+- Chiwi60
+- Venn

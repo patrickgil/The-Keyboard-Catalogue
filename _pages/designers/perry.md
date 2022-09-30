@@ -7,13 +7,13 @@ parent: Designers
 ---
 # {{page.title}}
 
-This is the home page for the designer, Perry.
+This is the home page for the designer, {{page.title}}.
 
 ## Keyboards
 
 ### Unfinished
 
-- [MC65](/perry/mc65)
-- [IU](/perry/iu)
-- [JinSoul](/perry/jinsoul)
-- [KHDD](/perry/khdd)
+- MC65
+- IU
+- JinSoul
+- KHDD

@@ -7,7 +7,7 @@ parent: Designers
 ---
 # {{page.title}}
 
-This is the home page for the designers at Keycult.
+This is the home page for the designers at {{page.title}}.
 
 ## Keyboards
 

@@ -1,22 +1,22 @@
 ---
 layout: page
-title:  "Matrix Lab"
+title:  "Matrix Labs"
 categories: matrix
 permalink: "matrix"
 parent: Designers
 ---
 # {{page.title}}
 
-This is the home page for the designer, Matrix.
+This is the home page for the designer, {{page.title}}.
 
 ## Keyboards
 
 ### Unfinished
 
-- [Vita](/matrix/vita)
-- [Abel](/matrix/abel)
-- [1.0](/matrix/1.0)
-- [1.2](/matrix/1.2)
-- [2.0](/matrix/2.0)
-- [IM](/matrix/im)
-- [Noah](/matrix/noah)
+- Vita
+- Abel
+- 1.0
+- 1.2
+- 2.0
+- IM
+- Noah
