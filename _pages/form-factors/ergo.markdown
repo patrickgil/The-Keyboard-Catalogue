@@ -6,7 +6,7 @@ parent: Form Factors
 nav_order: 6
 ---
 # Ergo Keyboards
-
+<hr>
 <ul>
   {% assign sortedPosts = site.categories.ergo | sort: 'title' %}
     {% for post in sortedPosts %}

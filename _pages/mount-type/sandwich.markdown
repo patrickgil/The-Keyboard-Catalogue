@@ -1,14 +1,14 @@
 ---
 layout: page
-permalink: "/form-factors/75"
-title: "75 Percents"
-parent: Form Factors
-nav_order: 3
+permalink: "/mount-type/sandwich"
+title: "Sandwich Mount"
+parent: Mounting Type
+nav_order: 5
 ---
-# 75 Percent Keyboards
+# {{page.title}} Keyboards
 <hr>
 <ul>
-  {% assign sortedPosts = site.categories.seventy-five | sort: 'title' %}
+  {% assign sortedPosts = site.tags.sandwich | sort: 'title' %}
     {% for post in sortedPosts %}
       {% if post.url %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>

@@ -3,7 +3,7 @@ layout: default
 title:  "ai03 Andromeda"
 categories: ai03 tkl
 permalink: "ai03/andromeda"
-tags: Andromeda
+tags: gasket
 ---
 # {{page.title}}
 

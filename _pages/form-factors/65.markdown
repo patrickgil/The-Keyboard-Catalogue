@@ -6,7 +6,7 @@ parent: Form Factors
 nav_order: 2
 ---
 # 65 Percent Keyboards
-
+<hr>
 <ul>
   {% assign sortedPosts = site.categories.sixty-five | sort: 'title' %}
     {% for post in sortedPosts %}

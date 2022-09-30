@@ -6,7 +6,7 @@ parent: Form Factors
 nav_order: 11
 ---
 # Miscellaneous Keyboards
-
+<hr>
 <ul>
   {% assign sortedPosts = site.categories.miscellaneous | sort: 'title' %}
     {% for post in sortedPosts %}

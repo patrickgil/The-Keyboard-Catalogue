@@ -3,7 +3,7 @@ layout: default
 title:  "ATXKB Moontower"
 categories: atxkb sixty
 permalink: "atxkb/moontower"
-tags: Moontower
+tags: oring
 ---
 # {{page.title}}
 

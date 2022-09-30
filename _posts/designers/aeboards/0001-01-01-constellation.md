@@ -3,7 +3,7 @@ layout: default
 title:  "AEBoards Constellation"
 categories: aeboards sixty-five
 permalink: "aeboards/constellation"
-tags: Constellation
+tags: top oring gasket
 ---
 # {{page.title}}
 
