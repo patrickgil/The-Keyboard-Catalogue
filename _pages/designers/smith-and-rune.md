@@ -16,3 +16,4 @@ This is the home page for the designer, {{page.title}}.
 - Iron160
 - Iron165
 - Iron180
+- Magnus175
