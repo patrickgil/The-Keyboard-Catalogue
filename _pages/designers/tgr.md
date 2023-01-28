@@ -23,6 +23,6 @@ This is the home page for the designer, {{page.title}}.
 ### Unfinished
 
 - Alice
-- Jane
+- Other Jane variants
 - 910
 - Tomo
