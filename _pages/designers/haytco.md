@@ -13,4 +13,4 @@ This is the home page for the designer, {{page.title}}.
 
 ### Unfinished
 
-- [Cake 60](/haytco/cake-60)
+- Cake 60
