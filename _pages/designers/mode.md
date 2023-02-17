@@ -11,9 +11,11 @@ This is the home page for the designer, {{page.title}}.
 
 ## Keyboards
 
-### Unfinished
-
-- Eighty
-- Envoy
-- SixtyFive
-- Sonnet
+<ul>
+  {% assign sortedPosts = site.categories.mode | sort: 'title' %}
+    {% for post in sortedPosts %}
+      {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+</ul>
