@@ -22,11 +22,11 @@ This is the home page for the designer, {{page.title}}.
 
 ### Unfinished
 
-- Vita
 - Abel
-- 8XV1.0
-- 8XV1.2
-- 6XV2.0
+- 6XV 2.0
+- 6XV 2.0 Vita
+- 8XV 1.0
+- 8XV 1.2
 - ME
 - IM
 - Noah
