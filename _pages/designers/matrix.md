@@ -24,8 +24,9 @@ This is the home page for the designer, {{page.title}}.
 
 - Vita
 - Abel
-- 1.0
-- 1.2
-- 2.0
+- 8XV1.0
+- 8XV1.2
+- 6XV2.0
+- ME
 - IM
 - Noah
